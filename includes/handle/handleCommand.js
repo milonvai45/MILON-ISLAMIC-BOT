@@ -97,7 +97,7 @@ module.exports = function ({ api, models, Users, Threads, Currencies }) {
     const find = threadInfoo.adminIDs.find(el => el.id == senderID);
     if (NDH.includes(senderID.toString())) permssion = 2;
     if (ADMINBOT.includes(senderID.toString())) permssion = 3;
-    else if (!ADMINBOT.includes(senderID) && !NDH.includes(senderID) && find) permssion = 2;
+    else if (!ADMINBOT.includes(senderID) && !NDH.includes(senderID) && find) permssion = 1;
     if (command.config.hasPermssion > permssion) return api.sendMessage(global.getText("handleCommand", "permssionNotEnough", command.config.name), event.threadID, event.messageID);
      
        if (!client.cooldowns.has(command.config.name)) client.cooldowns.set(command.config.name, new Map());
