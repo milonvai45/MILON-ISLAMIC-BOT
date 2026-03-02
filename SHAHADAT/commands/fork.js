@@ -11,7 +11,7 @@ module.exports.config = {
 
 module.exports.run = async function({ api, event }) {
  api.sendMessage(
- "https://github.com/shahadat-sahu/SAHU-CHAT-BOT.git",
+ "https://github.com/shahadat-sahu/SAHU-ISLAMIC-BOT.git",
  event.threadID,
  event.messageID
  );
