@@ -15,7 +15,7 @@
     "removeSt": false,
     "NOTIFICATION": true,
     "notiGroup": true,
-    "BOTNAME": "𝗦𝗔𝗛𝗨 𝗜𝗦𝗟𝗔𝗠𝗜𝗖 𝗕𝗢𝗧",
+    "BOTNAME": "Milon Islamic Bot",
     "PREFIX": "/",
     "reactUnsend": [
         "😡",
@@ -24,25 +24,25 @@
         "😠"
     ],
     "ADMINBOT": [
-        "100044713412032",
-        "100047211079054",
-        "61587787857742"
+        "61587807315292",
+        "61587807315292",
+        "61587807315292"
     ],
     "NDH": [
         "100044713412032"
     ],
-    "AuthorName": "SHAHADAT SAHU",
-    "AuthorNickName": "সাহু",
-    "AuthorBotName": "SAHU ISLAMIC BOT",
+    "AuthorName": "Milon vai",
+    "AuthorNickName": "Milon",
+    "AuthorBotName": "MILON ISLAMIC BOT",
     "AuthorGender": "Male",
-    "AuthorAge": "18+",
+    "AuthorAge": "23+",
     "AuthorReligion": "Islam",
     "AuthorRelationalStatus": "Single",
     "AuthorLocation": "Bangladesh",
     "AuthorPhoto": "https://i.imgur.com/Zhs0omh.jpeg",
     "AuthorImgur": "https://i.imgur.com/zqsuJnX.jpeg",
     "AuthorGithub": "https://github.com/shahadat-sahu",
-    "AuthorFacebook": "https://fb.com/100044713412032",
+    "AuthorFacebook": "https://www.facebook.com/share/1CD45zEmo3/",
     "AuthorMessenger": "https://m.me/100044713412032",
     "AuthorWhatsApp": "https://wa.me/8801882333052",
     "AuthorTelegram": "https://t.me/yoursahu",
